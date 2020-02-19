@@ -1,0 +1,250 @@
+body {
+    height: 5000px;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+
+
+.navbar {
+    background-color: #fff;
+    
+    
+
+}
+
+.navbar-brand {
+    font-family: 'Bangers', cursive;
+    font-style: italic;
+  
+    
+}
+.cover span
+{
+    color: #000;
+    font-size: 24px;
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+.carousel-caption{
+    top: 12%;
+}
+
+
+.three,.offers .three
+{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+   
+    color: #fff;
+}
+.three .card:hover
+{
+    cursor: pointer;
+   
+}
+.three .card,.offers .three.card
+{
+    
+    height: auto;
+    background-color: #cc3300;
+    margin-top: -90px;
+    border:none;
+    text-align: center;
+   
+    padding:4%;
+    
+   
+}
+
+.three .card.center
+{
+    z-index: 100;
+    margin: -6%;
+     padding:2%;
+    margin-bottom: 25px;
+    
+}
+
+
+
+
+.about {
+    
+    color: #000;
+    margin-bottom: 10%;
+}
+
+.about .card-header{
+    background-color: #ffb399;
+    border-radius:5;
+   
+    
+}
+.about .card-header:hover
+{
+    cursor: pointer;
+}
+.about .card{
+    border:none;
+}
+
+.about h2,.form span
+{
+     color: #000;
+    font-size: 24px;
+    font-family:'Bangers', cursive;
+    font-weight: bolder;
+}
+.about img
+{
+    height: auto;
+}
+
+
+
+.help
+{
+    
+    height:auto;
+    font-family: 'Dancing Script', cursive;
+    background-color: #cc3300;
+    padding-bottom: 100px;
+    
+    
+    
+}
+.help span,.doctors .right h4
+{
+    font-size: 50px;
+    font-weight: bolder;
+        font-family: 'Dancing Script', cursive;
+}
+.help .front
+{
+    z-index: 100;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 10%;
+    
+}
+.help .front i
+{
+  font-size:40px;
+    width: 300px;
+    height: 100px;
+    color: #ffb399;
+   
+}
+.help .front i h3, .help .front i p
+{
+    font-size: 16px;
+    color:#000;
+}
+
+
+
+
+
+.doctors
+{
+ 
+    height: auto;
+}
+
+
+
+.offers
+{
+    height: auto;
+    background-image: url(../images/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+}
+
+
+.counter span
+{
+ font-weight: bolder;
+    color: #cc3300;
+    font-size: 25;
+}
+.counter p, form
+{
+      font-family: 'Bangers', cursive;
+    font-size: 20;
+    
+}
+
+
+
+
+.pics img
+{
+    width: 320px;
+    height: 300px;
+    margin: 10px;
+    border: 3px solid #ddd;
+}
+.pics img:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.contact
+{
+      margin: 0 auto;
+    text-align: center;
+
+}
+.contact i
+{
+     font-size:40px;
+    width: 320px;
+    height: 100px;
+   
+    color: #cc3300;
+  
+  
+}
+.contact i:hover
+{
+    cursor: pointer;
+}
+.contact i h2,.contact i h3
+{
+        font-size: 22px;
+    color: #000;
+    margin-top: 5px;
+}
+
+.register
+{
+     background-color:#ffb399; 
+    opacity: 0.8;
+    color: #000;
+}
+.form
+{
+    width:70%;
+    margin: 0 auto;
+    
+   
+}
+.form select
+{
+    cursor: pointer;
+}
+
+
+
+footer
+{
+    background:#342E2A;
+       font-family: 'Bangers', cursive;
+    font-size: 14;
+    
+}
